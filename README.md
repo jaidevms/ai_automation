@@ -1,8 +1,3 @@
-Below is a **clean, strictly professional README.md** with **no emojis, no filler, and no unnecessary content**.
-You can copy this exactly and upload it to GitHub.
-
----
-
 # NSL-KDD Dataset for Cyber Threat Detection
 
 ## Overview
